@@ -31,7 +31,7 @@ public class BaseUrlTest extends TestBase{
 		super();
 	}
 	
-	
+	//run pipeline
 	@BeforeMethod	
 	public void setUp()
 	{
